@@ -1,0 +1,31 @@
+Python Basics Question and Answer
+What is Python, and why is it popular?
+Python is a high-level programming language known for its simplicity and readability. Just like we use Hindi language to communicate and express ourselves, Python is a language for computers to understand our instructions & perform tasks. Note: Python was created by Guido van Rossum in 1991.
+Python is popular because it is easy to learn, versatile, and supported by powerful libraries and a huge community.
+What is an interpreter in Python?
+An interpreter in Python is a tool that reads your code and runs it line by line.
+What are pre-defined keywords in Python
+Pre-defined keywords are special words that Python already uses for its own rules, like if, for, and while. We cant use them as names for our own things.
+Can keywords be used as variable names?
+No we can't use keywords as variable names because Python already uses them
+if = 5 # Not allowed age = 5 # Allowed
+What is mutability in Python?
+Mutability in Python means if object can changed after it is created or not
+Why are lists mutable, but tuples are immutable
+Lists are mutable because can change their items and tuples are immutable because can't change their items.
+What is the difference between “==” and “is” operators in Python?
+== checks if two things have same value and is checks they are the same object in memory.
+What are logical operators in Python?
+Logical operators in Python are words use to combine conditions like and, or, and not.
+What is type casting in Python?
+Type casting Python is changing a value from one type to another, like from number to string.
+What is the difference between implicit and explicit type casting?
+Implicit type casting happens automatically while explicit type casting is when we change the type on purpose
+What is the purpose of conditional statements in Python
+Conditional statements let the program make decisions and run code only if certain conditions are true.
+How does the elif statement work?
+The elif statement checks another condition if the first if is false.
+What is the difference between for and while loops?
+for loops run a set number of times, while while loops run as long as a condition is true.
+Describe a scenario where a while loop is more suitable than a for loop?
+A while loop is better when you don't know how many times you need to repeat something, like asking a user until they enter the right password.
